@@ -49,7 +49,7 @@ O foco aqui não foi burlar regras, mas **entender como funcionam processos comp
 
 ---
 
-## 💬 Considerações finais
+## 💬 Considerações 
 
 Esse bot é parte da minha jornada como programador curioso e autodidata. Mesmo sendo um projeto antigo e imperfeito, representa um marco no meu aprendizado.
 
