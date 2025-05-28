@@ -1,5 +1,9 @@
 
-# Bot Experimental para Clash of Kings - The West 🎮🤖
+<p align="center">
+  <img src="assets/icon.png" alt="Ícone" width="100" />
+</p>
+
+<h1 align="center">Bot Experimental para Clash of Kings - The West 🎮🤖</h1>
 
 Este projeto foi desenvolvido por mim, Jyan, quando eu tinha entre 17 e 18 anos, como forma de aprendizado prático em automação, visão computacional e manipulação de imagens com Python.
 
@@ -49,7 +53,7 @@ O foco aqui não foi burlar regras, mas **entender como funcionam processos comp
 
 ---
 
-## 💬 Considerações 
+## 💬 Considerações  
 
 Esse bot é parte da minha jornada como programador curioso e autodidata. Mesmo sendo um projeto antigo e imperfeito, representa um marco no meu aprendizado.
 
