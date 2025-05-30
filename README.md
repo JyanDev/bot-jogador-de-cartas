@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="assets/icon.png" alt="Ícone" width="200" />
+  <img src="assets/icon.png" alt="Ícone" width="200" /><img src="demo/bot_demo.gif" width="500" alt="Demo" />
 </p>
+
 
 <h1 align="center">Bot Experimental para Clash of Kings - The West 🎮🤖</h1>
 
